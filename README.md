@@ -1,3 +1,7 @@
+
+
+Note : please note that data_stocks.csv which is used to populate the dataframe can't be uploaded because it's  more than 25MB.
+
 Problem 1:
 There are various stocks for which we have collected a data set, which all stocks are
 apparently similar in performance
